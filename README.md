@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot
+#  AI Chatbot
 
 An interactive AI-powered chatbot built using Python, Streamlit, and Google's Gemini API.
 
@@ -73,6 +73,10 @@ Never share or upload your API key.
 - Managing environment variables securely
 - Handling API errors and quota limitations
 - Maintaining conversation history using Streamlit session state
+
+- ## Application Screenshot
+
+![AI Chatbot Screenshot](chatbot-demo.png)
 
 ## Author
 
